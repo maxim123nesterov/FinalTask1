@@ -1,0 +1,15 @@
+D:\программирование\С#\дз\итоговый проект\task\bin\Debug\net6.0\task.exe
+D:\программирование\С#\дз\итоговый проект\task\bin\Debug\net6.0\task.deps.json
+D:\программирование\С#\дз\итоговый проект\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\программирование\С#\дз\итоговый проект\task\bin\Debug\net6.0\task.dll
+D:\программирование\С#\дз\итоговый проект\task\bin\Debug\net6.0\task.pdb
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.dll
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\refint\task.dll
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.pdb
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\программирование\С#\дз\итоговый проект\task\obj\Debug\net6.0\ref\task.dll
